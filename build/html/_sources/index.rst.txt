@@ -7,9 +7,163 @@ Icewind Dale: King of the Wolves
 
 Introduction
 ============
-The adventure will take place around Good Mead - a small town in Icewind Dale which produces mead from honey.
+The adventure will take place around Good Mead - a small town in Icewind Dale which produces mead from honey. Rumour has it some townsfolk have been murdered there recently.
 
-It'll be a pretty short adventure so not much opportunity for personalised hooks, so create a level 5 character that has a reason to be in Good Mead and is motivated to help the people there.
+It'll be a pretty short adventure without much opportunity for personalised hooks, so create a level 5 character that has a reason to be in Good Mead and is motivated to help the people there.
+
+Background
+----------
+
+Icewind Dale
+~~~~~~~~~~~~
+
+.. image:: ../images/map-icewind-dale.jpg
+  :width: 1200
+  :alt: Icewind Dale
+
+*Freezing wind sweeps across the tundra, ceaselessly battering anything that dares to grow or breathe in its
+domain. Even in summer, when the days stretch interminably long, the sun blazing low in the midnight sky
+brings no respite from the chill. Without fail, the wind finds its way through every chink and crack, every
+opening in the warmest furs, every tent flap, every roof and board ofthe strongest homes.
+It drains away any hint of warmth wherever it finds purchase.*
+
+*The threat of winter's fury is never far away.
+The wind sweeping down from the Reghed Glacier howls its wrath and sometimes carries stinging sprays
+ofice in its grasp. The sun never rises far above the horizon
+even at the height of summer — and the height of summer is fleeting. During the rest of the year
+sudden storms bring driving hail or sleet that leaves everything coated in a sheath ofice, or they
+bring snow that piles in deep drifts.*
+
+*All this cold and fury is caged into one small region.
+The ice cliffs of the Reghed Glacier — the source ofthe never-ending wind — rises up in the east like
+prison walls, home to white dragons and enormous remorhazes. In the south loom the snow-capped peaks of
+the Spine ofthe World, crawling with orcs, goblins, and other monsters.
+North and west, the Sea of Moving Ice churns bergs and floes
+in an endless tumult, like winter grinding its teeth in anticipation of its next freezing assault.*
+
+*And yet, such is the nature of life that even in this hostile place, it manages to lift its head in
+defiance ofthe biting cold. Lichens cling to weathered rock despite the battering ofthe winds,
+providing sustenance to herds of reindeer through the winter. Fish swim in the lakes and rivers that dot the tundra.*
+
+*When summer comes to the tundra, life shakes off the torpor of winter and comes forth in full flower.
+Grasses grow two or three feet high in the span ofweeks. Birds flock to the marshes formed in the thawing soil.
+Reindeer calves fill out the herds that have been diminished through the winter.*
+
+*Of course, no region ofthe Forgotten Realms is without its people. Human tribes follow the reindeer
+herds through their annual migrations. Other humans dare the treacherous waters ofthe Sea of
+Moving Ice in search offish, seals, and whales to sus tam them. Dwarves dig into the earth to find
+shelter from the biting wind, mining for iron and forging weapons and armor.*
+
+*Most improbably of all, civilized folk descended from foolhardy and treasure-mad immigrants from
+the south manage to survive and sometimes thrive in ten small towns. The wooden buildings of these
+towns provide only a little shelter from the cold and wind, and no protection at all from the attacks of orcs, barbarians, or the fierce tundra yeti.
+Though the towns are clustered around three icy lakes teeming with knucklehead trout, resources are scarce,
+and competition between neighboring communi ties can be fierce and occasionally deadly.
+But for all the dangers, people still live in the region known as Ten-Towns, and new arrivals—outcasts, fugitives,
+wanderers, and adventurers—still come to test them- selves against the harshest environment known to
+the world.*
+
+*This is Icewind Dale.*
+
+Ten-Towns
+~~~~~~~~~
+.. image:: ../images/ten-towns-map.webp
+  :width: 1200
+  :alt: Ten-Towns
+
+*Who would choose to settle in a frontier land as brutal as Icewind Dale? The answers are as diverse
+as the people of Ten-Towns, who are a cross-section of the whole of the Forgotten Realms.*
+
+*Some people come to Ten-Towns determined to make their fortunes.
+Although demand for knuckle-head scrimshaw in southern lands is not what it once
+was, there is still money to be made in fishing for the trout and selling or carving their ivory-like bones.
+The valley and the slopes of the Spine ofthe World are rich in mineral resources, as are the gem
+mines near Termalaine, so a few hopeful prospectors make their way to the far north in hopes of
+striking a rich new vein.*
+
+*Still others come for the solitude.
+It is hard to get much farther away from the hustle and press of civilization than Icewind Dale —
+or closer to a particularly stark, harsh form of nature's beauty. The dale is also a fine place to
+escape notice and stay out ofthe reach ofthe law ofthe southern cities.
+Like the famous drow Drizzt Do'Urden, many ofthe people who come to Icewind Dale are outcasts,
+fugitives, or pariahs in search ofa place where they can be tolerated, if not accepted.*
+
+*Some ofthe people of Ten-Towns are descended from the Reghed barbarians who settled in Caer-Konig
+and Bremen for a time. They abandoned their ancient traditions and self-sufficient lifestyle after
+they were decimated by the armies of Akar Kessell a hundred years ago. Many of their kin still roam
+the tundra, but Caer-Konig and Bremen in particular have significant populations ofexceptionally
+tall men and women descended from the Reghed tribes.*
+
+*Of course, now—four hundred years after the Dinev family first settled on the shores of
+Lac Diimeshere — most ofthe people ofTen-Towns are here because they were born here, grew up here,
+and never really considered leaving.
+They're accustomed to the cold, and they smile behind their hands at — or openly mock — the weak
+southern folk who visit their homeland and complain about the weather.
+Like the hardy lichens and determined reindeer ofthe tundra, residents make a living under the
+shadow of Kelvin's Cairn, hunker down to endure the brutal winters, and bring a zesty lust for life
+to the summers, enjoying what respite they can from the bitter cold.*
+
+*Life in Ten-Towns is hard work. The people know the value of cooperation, and neighbors within a
+town depend on each other every day for survival.
+A pair of strong hands is too valuable a resource to waste, so when criminals are caught and
+brought to justice, they're not locked up — they're put to work for the common good.*
+
+*The friendliness that suffuses each town often stops at the edge ofthat community.
+The people of other towns aren't neighbors; they're competitors for resources.*
+
+Good Mead
+~~~~~~~~~
+
+.. image:: ../images/map-goodmead.jpg
+  :width: 1200
+  :alt: Good Mead
+
+*Dark gray skies hang over Icewind Dale. Good Mead is on
+the frozen shore of Redwaters. The settlement clings to a
+slope by the water's edge, its buildings hidden behind tall
+pines. A timber mead hall overlooks the lake, and thick
+woods to the west stretch away into the mist.
+Smoke rises from the chimneys, but the streets are
+mostly empty. Judging by the voices drifting from the hall, a
+town meeting could be in progress.*
+
+Hooks
+-----
+
+Here are some suggested hooks. Feel free to use these or come up with your own.
+
+Bounty Hunters
+~~~~~~~~~~~~~~
+*The murders have shocked Ten Towns, and its speakers have joined forces to place a bounty on the killer's head.
+Despite the worsening weather, sellswords have spread out over the dale.
+Either by chance or deduction, the characters are the first among them to head for Redwaters.
+A purse of 300 gp is on offer for bringing down the
+killer, or double that if he or she can be brought alive
+to stand trial in Bryn Shander.*
+
+Caravan Guards
+~~~~~~~~~~~~~~
+*Good Mead's speaker has ordered in extra supplies
+before the weather closes in. The party is hired to
+escort a wagonload of wicker hives to the beekeepers of Good Mead.
+With a killer on the loose, they're
+urged to remain especially vigilant.*
+
+Old Friends
+~~~~~~~~~~~
+*An old friend has retired to Good Mead: perhaps a
+mentor to one of the characters or a close relative.
+Word has come that this important person is in ill
+health and might not last the winter, so the characters
+have taken the opportunity to pay a final visit.*
+
+Player Responsibilities
+=======================
+
+1. Be responsive. We'll use discord, so install it on your phone and turn push notifications on. If I message you on a platform other than discord about D&D, this is a sign you are not being appropriately responsive.
+   If you usually have push notifications turned off because you don't want to be spammed by the other servers you're in, it's quite easy to mute each of those servers.
+2. Follow the advice `here <https://www.reddit.com/r/dndnext/comments/veitej/how_to_make_your_dm_happy_in_6_relatively_easy/?sort=confidence>`_.
+3. Take quick turns. Stop counting squares and just do it!
 
 Character Creation
 ==================
@@ -22,65 +176,20 @@ Golden Rules
 
 Ability Scores
 --------------
-I'd like to try a way of rolling for stats that will hopefully open up some more interesting character choices. When people choose where their stats go, most people place them optimally, which leads to all classes being pretty same-y.
-
-I like rolling for stats because it frees people from this optimiser's dilemma. To avoid disparate outcomes, so we're going to have everyone use different permutations of the same randomly generated array - with the opportunity to swap the position of any two stats.
-
-For example, we might generate the array ``6, 7, 13, 13, 14, 16``, and then random permutations of it:
-
-+--------+-----+-----+-----+-----+-----+-----+
-| Player | STR | DEX | CON | INT | WIS | CHA |
-+========+=====+=====+=====+=====+=====+=====+
-|   A    | 13  | 16  |  7  | 13  |  6  |  14 |
-+--------+-----+-----+-----+-----+-----+-----+
-|   B    | 13  | 6   |  16 | 7   |  14 |  13 |
-+--------+-----+-----+-----+-----+-----+-----+
-|   C    | 13  | 14  |  13 | 16  |  6  |  7  |
-+--------+-----+-----+-----+-----+-----+-----+
-|   D    | 6   | 13  |  7  | 13  |  14 |  16 |
-+--------+-----+-----+-----+-----+-----+-----+
-
-Player A decides that with decent DEX and CHA, he's going to play a swashbuckler rogue. He swaps his INT score with CON to end up with ``13, 16, 13, 7, 6, 14``, and then adds his racial bonuses.
-
-
-.. code-block:: python
-    :caption: Algorithm to roll for stats
-
-    def d6():
-        return random.randint(1, 6)
-
-
-    def roll():
-        """Roll 4d6kh3"""
-        return sum(sorted((d6() for _ in range(4)))[1:])
-
-
-    def main():
-        array = sorted((roll() for _ in range(6)))
-        total = sum(array)
-        lower, upper = 62, 82
-        while not (lower < total < upper):
-            print(f"Generated: {array}, total: {total}")
-            if lower >= total:
-                print(f"Too low, replacing lowest: {array[0]}")
-                array[0] = roll()
-            else:
-                print(f"Too high, replacing second highest: {array[-2]}")
-                array[-2] = roll()
-
-            array = sorted(array)
-            total = sum(array)
-
-        print(f"Final array: {array}, total: {total}")
+We'll roll for stats, details TBD.
 
 Playable Races
 --------------
 - Aasimar
+- Bugbear
 - Custom Lineage
 - Dragonborn
+- Duergar
 - Dwarf
+- Eladrin
 - Elf
 - Firbolg
+- Genasi
 - Gnome
 - Goblin
 - Goliath
@@ -91,9 +200,13 @@ Playable Races
 - Hobgoblin
 - Human
 - Kobold
+- Lizardfolk
+- Orc
 - Tiefling
 - Triton
+- Yuan-ti
 
+Use the Monsters of the Multiverse version of a race if available.
 Let me know if there's something else you really want to play.
 
 Multiclassing
@@ -114,14 +227,11 @@ I would like to interpret all of these abilities in the post-TcoE way, so if you
 
 Backstory
 ---------
-Here are some useful resources:
-
-- `Heroic Chronicle: Sword Coast and the North <https://www.dndbeyond.com/posts/783-heroic-chronicle-sword-coast-and-the-north>`_
-- `Heroic Chronicle: Wildemount <http://dnd5e.wikidot.com/background:wildemount-heroic-chronicle>`_
+I'll send you some Icewind Dale material for inspiration.
 
 Alignment
 ---------
-I don't *really* care about alignment as long as it doesn't conflict with the golden rules.
+I don't care about alignment as long as it doesn't conflict with the golden rules.
 
 Bonus points if you read this `hyper nerdy article <https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d>`_ and tell me which colors represent your character's personality.
 
@@ -136,6 +246,18 @@ Miscellaneous
 Gameplay
 ========
 
+Resting
+-------
+Adventuring days will be pretty action-packed so we'll go with rules-as-written.
+
+Administering Potions
+---------------------
+Using your action to administer a health potion to an unconscious creature requires going prone.
+
+Prone
+-----
+Standing up from prone triggers attacks of opportunity.
+
 Concentration
 -------------
 It's really hard for me to keep track of everyone's concentration, so I'd like there to be some penalty for players forgetting to keep track over their own. I'll remind you if I remember, but if we both forget and I remember later I'll have you roll at disadvantage.
@@ -144,7 +266,7 @@ Spell Components
 ----------------
 You can use a focus instead of any material components that don't have cost requirements.
 
-If you plan on having equipment in each hand (eg. shield + weapon, dual wield), I would recommend you take the Warcaster feat so we don't have to track whether you have a free hand for somatic components.
+If you plan on having equipment in each hand (eg. shield + weapon, dual wield), I strongly recommend you take the Warcaster feat so we don't have to track whether you have a free hand for somatic components.
 
 Disarming
 ---------
@@ -158,7 +280,7 @@ If your passive score meets the DC for a check you might automatically succeed a
 
 Falling Damage
 --------------
-Falling damage will be increased to 1d8 per 10ft, up to a maximum of 50d8 at 500ft.
+Falling damage increased to 1d8 per 10ft, up to a maximum of 50d8 at 500ft.
 
 You can make a Dexterity (Acrobatics) check to take half damage if you fall voluntarily.
 
