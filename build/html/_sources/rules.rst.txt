@@ -44,18 +44,15 @@ Falling damage increased to 1d8 per 10ft, up to a maximum of 50d8 at 500ft.
 You can make a Dexterity (Acrobatics) check to take half damage if you fall voluntarily.
 
 Rolling Dice
-============
+------------
 
 Invalid Rolls
--------------
+~~~~~~~~~~~~~
 Rolls don't count if:
 
 - you weren't asked to roll
 - they fall off the table
 
 Percentile Dice (d100)
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 PHB p6: "You generate a number between 1 and 100 by rolling two different ten-sided dice numbered from 0 to 9. One die (designated before you roll) gives the tens digit, and the other gives the ones digit. If you roll a 7 and a 1, for example, the number rolled is 71. **Two Os represent 100.**"
-
-
-
