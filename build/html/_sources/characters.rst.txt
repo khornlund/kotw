@@ -51,6 +51,16 @@ Playable Races
 Use the Monsters of the Multiverse version of a race if available.
 Let me know if there's something else you really want to play.
 
+Complexity
+----------
+Play something with an appropriate level of complexity. If you play a spellcaster you'll need to
+spend some time learning what your spells do, and I'd recommend using a tablet to let you look
+things up quickly as dndbeyond on mobile is a bit clunky.
+
+.. image:: ../images/dnd-classes.png
+  :width: 1200
+  :alt: Class Options
+
 Multiclassing
 -------------
 Sure, but note it's probably a bad idea at level 5.
