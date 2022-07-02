@@ -16,10 +16,6 @@ Golden Rules
 2. Create a character that will be fun for the rest of the party to adventure with.
 3. Pitch your character idea(s) to me early.
 
-Ability Scores
---------------
-We'll roll for stats, details TBD.
-
 Setting-inspired characters
 ---------------------------
 Typically players start a character idea with a class, and let the rest of the details fit around that.
@@ -50,14 +46,53 @@ With this seed, we might come up with the following ideas for each class:
 - Monk. After the accident spent 5 years in monastery. Now returning home for the first time, ready to make a difference.
 - Paladin. Swore an oath after accident. Eg. To prevent humans mining and destroying nature (ancients), or revenge against a responsible organisation (vengeance).
 - Ranger (Gloomstalker). Was patrol leader in mining explorations. Experienced in all things Underdark.
-- Rogue. Used to sell insider information about where to mine. Was discovered and had to leave town and change identity.
+- Rogue (Mastermind). Used to sell insider information about where to mine. Was discovered and had to leave town and change identity.
 - Sorcerer. Reflavour one of the draconic ancestries to be gem dragon. Or one day you touched a crystal you found and woke up with powers.
-- Warlock. Found a genie in a bottle underground, made a pact with it to gain magical powers.
+- Warlock (Genie). Found a genie in a bottle underground, made a pact with it to gain magical powers.
 - Wizard (Transmutation). Study of materials with magical properties.
 
-If you'd decided to play Wizardo the wizard first, it's unlikely the gem mine in Termalaine
-would jump out at you as something to incorporate into your backstory. If instead you soft-commit to
-something that interests you, you'll come up with better ideas!
+Here's another example:
+
+*I've sailed the Sea of Moving Ice to hunt whales. I realised my life expectancy wasn't great at sea,
+so I made a new life for myself in Icewind Dale. Whaling turned me into an adrenaline-junkie, so
+so I've gravitated towards the life of an adventurer.*
+
+- Artificer (Alchemist). Served as doctor onboard, can make all sorts of potions in a pinch.
+- Barbarian (Storm Herald). Sailing these rough seas has given you a unshakeable respect for nature's wrath,
+  which has manifested as minor magical powers. You feel like you've mastered the sea, and now it's
+  time to master the tundra.
+- Cleric (Tempest). Like many sailors you worship Umberlee the Bitch Queen, goddess of the seas. You
+  had a dream one night and woke with a new purpose that sent you to Ten-Towns.
+- Druid (Stars). The stars have always spoken to you. Your mastery of constellations has made you a
+  talented navigator, and throughout your journeys at sea and dialogue with nature you've developed
+  magical powers. Recent guidance from the stars had led you to Ten-Towns.
+- Fighter (Battle Master). Combat with pirates on ship decks at rough seas builds a repertoire of
+  dirty tricks and manoeuvres to get the upper hand. Fighting on land seems easy by comparison, and
+  people pay good money for your skills.
+- Monk (Drunken Master). Same as fighter.
+- Paladin (Open Sea, Ancients). Similar to barbarian.
+- Ranger (Hunter). You have a wealth of experience hunting monsters many times your size. Luckily
+  Icewind Dale is full of monsters, and people willing to pay for your services.
+- Rogue (Swashbuckler). Same as fighter.
+- Sorcerer (Storm). One day you fell overboard, and were rescued under circumstances you don't remember.
+  After you woke from your coma weeks later, you gradually discovered your new powers.
+- Warlock (Depths). You feared you wouldn't survive a terrible storm, and in your desperation you
+  made all sorts of promises to yourself about what you'd do if you survived. You did survive, and
+  have new-found powers. *What* did you promise again? *Who* did you make the promises to?
+- Wizard (Divination). You've always had a knack for reading the tea-leaves, charting a course and
+  finding the best fishing spots.
+
+If you'd decided to play Wizardo the wizard first, it's unlikely the gem mine in Termalaine nor
+the Sea of Moving Ice would jump out at you as something to incorporate into your backstory. If instead you
+soft-commit to something that interests you, you'll come up with better ideas!
+
+Ability Scores
+--------------
+Once you have a rough idea for a backstory, you'll roll for stats. You'll generate an array like
+``STR 12, DEX 13, CON 12, WIS 16, INT 7, CHA 14``, and can then swap the position of any two stats.
+
+Each score is bounded to ``[7, 16]``, and the total will always be 74. This way everyone will get
+similar stats, and no one will be significantly stronger than anyone else.
 
 Playable Races
 --------------
@@ -106,7 +141,9 @@ Sure, but note it's probably a bad idea at level 5.
 
 Backgrounds
 -----------
-Custom backgrounds are fine. Useful resource `here <https://www.reddit.com/r/dndnext/comments/bw2kl7/character_concepts_for_every_classbackground?sort=confidence>`_`
+Custom backgrounds are fine.
+`This <https://www.reddit.com/r/dndnext/comments/bw2kl7/character_concepts_for_every_classbackground?sort=confidence>`_
+is a useful matrix of class/background combinations you might use as inspiration.
 
 Innate Spellcasting
 -------------------
@@ -116,15 +153,12 @@ Post-TcoE this changed, allowing you to also cast the spell using any spell slot
 
 I would like to interpret all of these abilities in the post-TcoE way, so if you play a Tiefling you may also cast hellish rebuke using any spell slots you have.
 
-Backstory
----------
-I'll send you some Icewind Dale material for inspiration.
-
 Alignment
 ---------
 I don't care about alignment as long as it doesn't conflict with the golden rules.
 
-Bonus points if you read this `hyper nerdy article <https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d>`_ and tell me which colors represent your character's personality.
+Bonus points if you read this `hyper nerdy article <https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d>`_
+and tell me which colors represent your character's personality.
 
 Miscellaneous
 -------------
