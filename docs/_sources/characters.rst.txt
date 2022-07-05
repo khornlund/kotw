@@ -160,6 +160,11 @@ I don't care about alignment as long as it doesn't conflict with the golden rule
 Bonus points if you read this `hyper nerdy article <https://humanparts.medium.com/the-mtg-color-wheel-c9700a7cf36d>`_
 and tell me which colors represent your character's personality.
 
+Sorcerer Spell Points
+---------------------
+If you play a sorcerer, you may use the variant `rules <http://dnd5e.wikidot.com/spell-points>`_`
+for spell points. Note this will add a fair bit of complexity, not for the faint-hearted.
+
 Miscellaneous
 -------------
 - I'm generally happy to reskin things, eg. use half-orc mechanics to play a human barbarian.
