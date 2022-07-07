@@ -31,11 +31,26 @@ Disarming
 ---------
 Not allowed because whatever you can do to enemies, they can do to you. It will be sad when goblins throw your magic sword in the lake.
 
+Ability Checks
+--------------
+
 Passive Ability Scores
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 The DC to hide/stealth is the opponent's passive perception.
 
-If your passive score meets the DC for a check you might automatically succeed after some period of time (depending on the task). Eg. if you spend 10 minutes trying to lift something heavy.
+If your passive score meets the DC for a check you might automatically succeed after some period of
+time (depending on the task). Eg. if you spend 10 minutes trying to lift something heavy.
+
+Athletics
+~~~~~~~~~
+In general DEX is a more useful stat than STR, so to compensate:
+most physical ability checks will use STR (Athletics) and not DEX (Acrobatics),
+eg. climbing, jumping, etc.
+
+Performance
+~~~~~~~~~~~
+Checks to impersonate someone will use Performance. Eg. while under the effect of disguise self,
+you want to impersonate the captain of the guard and issue a command to the militia.
 
 Falling Damage
 --------------
