@@ -145,6 +145,15 @@ Custom backgrounds are fine.
 `This <https://www.reddit.com/r/dndnext/comments/bw2kl7/character_concepts_for_every_classbackground?sort=confidence>`_
 is a useful matrix of class/background combinations you might use as inspiration.
 
+Don't pick backgrounds for their mechanical benefits,
+I'll tend to ignore the mechanical parts anyway as some are stupidly strong (eg. Outlander).
+Instead I'll just play-it-by-ear give in-game benefits where your background is relevant, eg.
+*"Go ahead and roll medicine with advantage to determine how this person died, given your gladiator
+background."*
+
+This way everyone should feel free to pick whatever interests them, without worrying about what's optimal.
+The best way to get an in-game benefit is to have a backstory with ties to the setting.
+
 Innate Spellcasting
 -------------------
 Pre-TcoE if a racial ability or feat let you cast a spell once per long rest, RAW you don't count as knowing that spell and you cannot cast it with any spell slots you may have. Eg. Tiefling Infernal Legacy.
@@ -162,7 +171,7 @@ and tell me which colors represent your character's personality.
 
 Sorcerer Spell Points
 ---------------------
-If you play a sorcerer, you may use the variant `rules <http://dnd5e.wikidot.com/spell-points>`_`
+If you play a sorcerer, you may use the variant `rules <http://dnd5e.wikidot.com/spell-points>`_
 for spell points. Note this will add a fair bit of complexity, not for the faint-hearted.
 
 Miscellaneous
